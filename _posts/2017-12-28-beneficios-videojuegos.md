@@ -10,7 +10,7 @@ Los videojuegos son indudablemente los reyes en los grupos de alumnos con los qu
 A continuación haremos un breve repaso a sus **beneficios** según diversos estudios científicos:
 
 1. <span style="color:blue;">Promueven el sentimiento de pertenencia a un grupo y el trabajo en equipo.</span>  
-Los niños que comparten actividades en equipo con sus semejantes desarrollan sus **competencias sociales**.
+Los niños que comparten actividades en equipo con sus semejantes desarrollan sus competencias sociales.
 2. <span style="color:blue;">Reducción de la tensión mental.</span>  
 Centrarse en la consecución de un objetivo y recibir estímulos positivos ayuda a reducir el estrés y la ansiedad.
 3. <span style="color:blue;">Mejora de la coordinación mano-ojo.</span>  
@@ -22,7 +22,9 @@ Los niños con **dislexia** leen mejor después de jugar a videojuegos. En gener
 6. <span style="color:blue;">Desarrollo de la creatividad.</span>  
 Muchos videojuegos y en especial aquellos de construcciones y de **mundo abierto** permiten al niño explorar su creatividad sin límites. Ya sea construyendo una réplica de la Torre Eiffel o diseñando una pista de carreras, algunos videojuegos suponen un banco de pruebas para el niño y ofrecen la posibilidad de mostrar sus creaciones al mundo gracias a Internet.
 
-Evidentemente y a pesar de sus ventajas, como con cualquier otra actividad, el uso abusivo de videojuegos puede conducir al sedentarismo, aislamiento o una mala gestión del tiempo. La limitación de su uso a fines de semana y nunca en detrimento de momentos reservados para la familia, la cuidadosa selección de los títulos jugados y ofrecer actividades alternativas como el deporte, pueden mitigar cualquier efecto negativo derivado de su uso.
+Evidentemente y a pesar de sus ventajas, como con cualquier otra actividad, el **uso abusivo** de videojuegos puede conducir al sedentarismo, aislamiento o una mala gestión del tiempo.
+
+La **limitación** de su uso a fines de semana y nunca en detrimento de momentos reservados para la familia, la cuidadosa selección de los títulos jugados y ofrecer actividades alternativas como el deporte, pueden mitigar cualquier efecto negativo derivado de su uso.
 
 ### Para saber más:
 Libro recomendado:
